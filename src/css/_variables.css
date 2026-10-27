@@ -1,0 +1,24 @@
+:root {
+  --main-dark: #1b1d4d;
+  --text-color: #8a8d9f;
+  --red-color: #fe2121;
+  --main-orange: #ff7557;
+  --white-color: #ffffff;
+  --orange-color: #ffc700;
+  --accent-color: #fcc55e;
+  --main-turquoise: #00b0b9;
+  --main-dark-color: #262b2e;
+  --body-text-color: #4c4c60;
+  --sea-green-color: #1dbf73;
+  --light-gray-color: #f1f1f1;
+
+  --header-height: 48px;
+  --tab-bar-height: 64px;
+
+  --screen-width: 600px;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+}
